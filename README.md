@@ -1,2 +1,2 @@
 # Medium_repo
-This repo holds scripts to my Medium articles
+This repo holds scripts of my Medium articles
